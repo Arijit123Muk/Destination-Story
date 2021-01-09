@@ -27,7 +27,7 @@ For more screenshot open folder Screenshots </a>
 __Installation__
 In the command terminal, run the following commands:
 ```git
-$ git clone https://github.com/Arijit123Muk/E-Shopping.git
+$ git clone https://github.com/Arijit123Muk/Destination-Story.git
 $ cd E-Shopping
 $ flutter doctor
 $ flutter pub get
